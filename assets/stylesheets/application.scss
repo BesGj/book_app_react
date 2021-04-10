@@ -2,9 +2,11 @@ body {
   font-family: Helvetica;
 }
 
+.btn-primary {
+  width: 100px;
+  height: 37px;
+}
+
 #root {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
 }
